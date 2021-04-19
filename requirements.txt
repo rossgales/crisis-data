@@ -63,7 +63,7 @@ PySocks==1.6.7
 python-dateutil==2.6.0
 python-louvain==0.14
 pytz==2017.2
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.2
 qtconsole==4.5.1
 redis==2.10.5
