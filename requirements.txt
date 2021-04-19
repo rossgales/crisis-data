@@ -36,7 +36,7 @@ jupyterthemes==0.20.0
 kiwisolver==1.1.0
 kombu==4.0.2
 lesscpy==0.13.0
-lxml==4.2.5
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mistune==0.8.4
