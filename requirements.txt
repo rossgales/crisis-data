@@ -76,7 +76,7 @@ testpath==0.4.2
 tornado==6.0.3
 traitlets==4.3.2
 -e git+https://github.com/rosscg/tweepy.git@20fd9aa7d218d175cd83d0c351b21200fe6fe671#egg=tweepy
-urllib3==1.21.1
+urllib3==1.26.5
 vine==1.1.3
 wcwidth==0.1.7
 webencodings==0.5.1
