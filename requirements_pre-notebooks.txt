@@ -22,5 +22,5 @@ requests==2.20.0
 requests-oauthlib==0.8.0
 six==1.10.0
 -e git+https://github.com/rosscg/tweepy.git@20fd9aa7d218d175cd83d0c351b21200fe6fe671#egg=tweepy
-urllib3==1.24.2
+urllib3==1.26.5
 vine==1.1.3
